@@ -87,12 +87,12 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                         </div>
                         <div class="company-info">
                             <h3>Thoughtworks</h3>
                             <div class="company-logo-small">
-                                <img src="" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                                <img src="" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                             </div>
                             <span class="experience-period">2022 - 至今</span>
                             <span class="experience-role">汽车软件研发业务负责人 / Account Manager / AI 产品经理</span>
@@ -117,12 +117,12 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                         </div>
                         <div class="company-info">
                             <h3>Thoughtworks</h3>
                             <div class="company-logo-small">
-                                <img src="" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                                <img src="" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                             </div>
                             <span class="experience-period">2018 - 2022</span>
                             <span class="experience-role">企业现代化与云事业部软件工程业务负责人 / Project Manager</span>
@@ -145,12 +145,12 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                         </div>
                         <div class="company-info">
                             <h3>Thoughtworks</h3>
                             <div class="company-logo-small">
-                                <img src="" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                                <img src="" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                             </div>
                             <span class="experience-period">2017 - 2018</span>
                             <span class="experience-role">思特沃克学院创始人 / 业务负责人</span>
@@ -174,12 +174,12 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                            <img src="images/thoughtworks-logo.svg" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                         </div>
                         <div class="company-info">
                             <h3>Thoughtworks</h3>
                             <div class="company-logo-small">
-                                <img src="" alt="Thoughtworks" onerror="this.src='data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40'%3E%3Crect width='100%' height='100%' fill='%23f0f0f0'/%3E%3Ctext x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-size='14' fill='%23666'%3EThoughtWorks%3C/text%3E%3C/svg%3E'">
+                                <img src="" alt="Thoughtworks" onerror="this.src='https://via.placeholder.com/200x40?text=ThoughtWorks'">
                             </div>
                             <span class="experience-period">2014 - 2017</span>
                             <span class="experience-role">海外事业部 Team Leader / 架构师</span>
@@ -201,7 +201,7 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/ankexin-logo.jpg" alt="安可信">
+                            <img src="https://via.placeholder.com/200x40?text=安可信" alt="安可信">
                         </div>
                         <div class="company-info">
                             <h3>成都安可信电子股份有限公司</h3>
@@ -226,7 +226,7 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/renwoxing-logo.jpg" alt="任我行">
+                            <img src="https://via.placeholder.com/200x40?text=任我行" alt="任我行">
                         </div>
                         <div class="company-info">
                             <h3>成都任我行软件有限公司</h3>
@@ -248,7 +248,7 @@
                 <div class="experience-card">
                     <div class="company-header">
                         <div class="company-logo">
-                            <img src="images/xindu-logo.jpg" alt="华盛农合">
+                            <img src="https://via.placeholder.com/200x40?text=华盛农合" alt="华盛农合">
                         </div>
                         <div class="company-info">
                             <h3>成都华盛农合科技有限公司</h3>

@@ -1095,24 +1095,21 @@ nav a:focus::after {
 
 .certifications-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 2rem;
+    margin-top: 2rem;
 }
 
 .certification-card {
-    position: relative;
-    background: linear-gradient(145deg, #ffffff, #f8f9fa);
+    background: white;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
     overflow: hidden;
-    transition: all 0.3s ease;
-    border: 1px solid rgba(0, 0, 0, 0.05);
     display: flex;
     flex-direction: column;
-    min-width: 300px;
-    max-width: 320px;
-    scroll-snap-align: start;
-    margin: 0.5rem 0;
+    height: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .certification-card:hover {
@@ -1316,6 +1313,15 @@ footer {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .certifications-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .certification-card {
+        max-width: 100%;
+    }
+    
     .header-content h1 {
         font-size: 2.5rem;
     }
