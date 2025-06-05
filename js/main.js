@@ -299,3 +299,20 @@ function closeProjectModal() {
         document.body.style.overflow = '';
     }, 300);
 }
+
+// --- 核心优势横向滚动按钮 ---
+document.addEventListener('DOMContentLoaded', function () {
+  const highlightsScroll = document.querySelector('.highlights-scroll');
+  const highlightsLeftBtn = document.getElementById('highlights-scroll-left');
+  const highlightsRightBtn = document.getElementById('highlights-scroll-right');
+  if (highlightsScroll && highlightsLeftBtn && highlightsRightBtn) {
+    highlightsLeftBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      highlightsScroll.scrollBy({ left: -300, behavior: 'smooth' });
+    });
+    highlightsRightBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      highlightsScroll.scrollBy({ left: 300, behavior: 'smooth' });
+    });
+  }
+});
